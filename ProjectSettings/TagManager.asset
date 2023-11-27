@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - character
+  - PlacarA
+  - PlacarB
+  - Capitao1
+  - Capitao2
+  - SeguraDireita
+  - SeguraEsquerda
+  - cafe
+  - milho
+  - cenario1
+  - cenario2
+  - cenario3
+  - Dispatcher
+  - Profile
+  - Bola
+  - trave
+  - quad
+  - Pino3d
+  - 10P
+  - 50P
+  - 100P
+  - entrou
+  - 0P
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ball
+  - Entrou
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
